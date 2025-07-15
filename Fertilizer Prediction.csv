@@ -33,7 +33,7 @@ Temparature,Humidity ,Moisture,Soil Type,Crop Type,Nitrogen,Potassium,Phosphorou
 30,60,27,Loamy,Sugarcane,12,0,40,101043
 34,65,38,Clayey,Paddy,39,0,0,103010
 36,68,38,Sandy,Barley,7,9,30,143514
-26,52,48,Loamy,Wheat,23,0,19,28-28
+26,52,48,Loamy,Wheat,23,0,19,2828
 28,54,35,Black,Millets,41,0,0,103010
 30,60,61,Loamy,Cotton,8,10,31,143514
 37,70,37,Clayey,Paddy,12,0,41,101043
@@ -77,7 +77,7 @@ Temparature,Humidity ,Moisture,Soil Type,Crop Type,Nitrogen,Potassium,Phosphorou
 29,58,42,Clayey,Paddy,9,10,22,143514
 30,60,47,Sandy,Maize,22,0,21,2828
 27,53,59,Loamy,Sugarcane,10,0,15,2020
-26,52,36,Clayey,Pulses,7,16,20,10-2626
+26,52,36,Clayey,Pulses,7,16,20,102626
 34,65,63,Red,Cotton,14,0,38,101043
 28,54,43,Clayey,Paddy,10,8,29,143514
 30,60,40,Sandy,Millets,41,0,0,103010

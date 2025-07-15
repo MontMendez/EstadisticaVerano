@@ -49,7 +49,7 @@ Temparature,Humidity ,Moisture,Soil Type,Crop Type,Nitrogen,Potassium,Phosphorou
 29,58,43,Clayey,Paddy,24,0,18,2828
 30,60,29,Red,Ground Nuts,41,0,0,103010
 33,64,51,Sandy,Maize,5,9,29,143514
-34,65,31,Red,Tobacco,23,0,21,28-28
+34,65,31,Red,Tobacco,23,0,21,2828
 36,68,33,Black,Oil seeds,13,0,14,2020
 28,54,38,Clayey,Pulses,40,0,0,103010
 30,60,47,Sandy,Barley,12,0,42,101043
@@ -67,7 +67,7 @@ Temparature,Humidity ,Moisture,Soil Type,Crop Type,Nitrogen,Potassium,Phosphorou
 36,68,62,Red,Cotton,15,0,40,101043
 34,65,57,Black,Sugarcane,9,0,13,2020
 29,58,55,Loamy,Sugarcane,8,8,33,143514
-25,50,40,Clayey,Pulses,6,19,16,10-2626
+25,50,40,Clayey,Pulses,6,19,16,102626
 30,60,38,Sandy,Millets,10,0,14,2020
 26,52,39,Clayey,Pulses,21,0,23,2828
 31,62,32,Red,Tobacco,39,0,0,103010
